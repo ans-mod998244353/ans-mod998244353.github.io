@@ -1,0 +1,55 @@
+/*主页面样式*/
+
+/*背景*/
+.background {
+	background-color: EFEFEF;
+}
+
+/*左侧标题栏*/
+.div_title {
+	background-color: #34495E;
+
+	width: 10%;
+	height: 98%;
+
+	position: fixed; 
+}
+
+/*左侧字体栏*/
+.div_text {
+	width: 100%;
+	height: 10%;
+
+	vertical-align: center;
+	text-align: center;
+}
+
+/*左侧标题栏字体*/
+.title_text {
+	vertical-align: center;
+	text-align: center;
+	color: #DDDDDD;
+}
+
+/*名字显示*/
+.title_name_text {
+	background-color: #3498DB;
+
+	vertical-align: center;
+	text-align: left;
+	font-size: 18px;
+	font-weight: bolder;
+    padding: 15px;
+	color: #DDDDDD;
+}
+
+/*总信息栏*/
+.div_main {
+	color: white;
+
+	width: 88%;
+	height: 98%;
+
+	position: absolute;
+	right: 0;
+}

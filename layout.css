@@ -9,7 +9,7 @@
 .div_title {
 	background-color: #34495E;
 
-	width: 10%;
+	width: 15%;
 	height: 98%;
 
 	position: fixed; 
@@ -47,7 +47,7 @@
 .div_main {
 	color: white;
 
-	width: 88%;
+	width: 83%;
 	height: 98%;
 
 	position: absolute;
